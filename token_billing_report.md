@@ -269,25 +269,25 @@ Token cost (stacked) and premium request cost per average run. Copilot CLI's tot
 
 ### Chart B — Outcome per Dollar
 
-![Chart B](chart2_outcome_per_dollar.png)
+![Chart B](output/chart2_outcome_per_dollar.png)
 
 Value efficiency: outcome units delivered per dollar spent. Cursor CLI (15.94) is 10× Copilot CLI (1.60).
 
 ### Chart C — Outcome per Million Task Tokens
 
-![Chart C](chart3_outcome_per_m_tok.png)
+![Chart C](output/chart3_outcome_per_m_tok.png)
 
 Token efficiency: outcome per million task tokens consumed. Gemini leads (16.38) followed by Cursor (13.15). Copilot is at 3.19 — less than one-quarter of Gemini's rate.
 
 ### Chart D — Mean Task Tokens per Run
 
-![Chart D](chart4_mean_task_tokens.png)
+![Chart D](output/chart4_mean_task_tokens.png)
 
 Raw token volume comparison. Copilot (3.26M) consumes nearly 5× more task tokens than Cursor (660K) for the same result.
 
 ### Chart E — Multi-Dimension Radar
 
-![Chart E](chart5_radar.png)
+![Chart E](output/chart5_radar.png)
 
 Normalized (0–1) comparison across quality score, confidence, outcome, token efficiency, and cost value. Cursor CLI dominates three of five dimensions; Gemini leads on token efficiency.
 
